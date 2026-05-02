@@ -1,0 +1,15 @@
+streamlit
+PyPDF2
+
+langchain
+langchain-community
+
+faiss-cpu
+
+sentence-transformers
+
+transformers
+torch
+
+python-dotenv
+-e .
